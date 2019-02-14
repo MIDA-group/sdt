@@ -1,6 +1,6 @@
 
 #
-# Py-Alpha-AMD Registration Framework
+# Stochastic Distance Transform
 # Author: Johan Ofverstedt
 # Reference: Fast and Robust Symmetric Image Registration Based on Distances Combining Intensity and Spatial Information
 #
